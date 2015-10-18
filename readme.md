@@ -1,6 +1,6 @@
 ##Practica DevOps
 
-- Servidor donde se ha desplegado Balapop (Antiguo Nodepop):
+- Url con la dirección del servidor donde esta desplegado Balapop (Antiguo Nodepop):
 
 **http://balapop.cloudapp.net** 
 
@@ -14,7 +14,7 @@
 
 **http://104.214.35.33**
 
-
+Author: Javier Contreras Ocón
 ------------------------------------------------------------------------------
 
 ### ANEXO del fichero de instrucciones Nodepop readme.md  
