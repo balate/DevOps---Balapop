@@ -1,6 +1,6 @@
 ##Practica DevOps
 
-- Url con la dirección del servidor donde esta desplegado Balapop (Antiguo Nodepop):
+- Dirección del server donde esta desplegado Balapop (Antiguo Nodepop):
 
 **http://balapop.cloudapp.net** 
 
