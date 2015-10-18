@@ -7,12 +7,12 @@
 
 - Ruta con archivos estáticos Ejemplo:
 
-** http://balapop.cloudapp.net/images/anuncios/bici.jpg **
+**http://balapop.cloudapp.net/images/anuncios/bici.jpg**
 
 
 - Dirección Ip del servidor (Muestra contenido de la  web)
 
-** http://104.214.35.33 **
+**http://104.214.35.33**
 
 
 ------------------------------------------------------------------------------
